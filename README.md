@@ -1,32 +1,38 @@
-# <Título del proyecto> - <Año>
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
-<Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+# Kampfi - 2022
+Battlebot blindado con Polialuminio y Acero. Como arma tiene instalada una helice en la parte delantera, la cual gira a una velocidad suficiente para romper a su contrincante, pues además está hecha de acero. Tiene un tren de traccion compuesto por 2 ruedas energetizadas por motores de 9 volts, y una rueda no actuada. 
 
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
-
-
+![Kampfi](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
-
+- Antonia Gutierrez - FCFM
+- Benjamín Gonzalez - FCFM
+- Joaquin Camhi - FCFM
+- Matías Carvajal - FCFM
 
 ## Descripción del proyecto
+cuenteo
 
 ### Estrategia utilizada
 #### Ofensiva
-<Explicar brevemente el arma utilizada.>
+Su principal arma (y única) es una helice delantera. Para atacar se acerca a su victima y al activar el giro de esta, lo destruye. Es recomendando apagar el motor del arma luego de usarla para evitar sobrecalentamientos. $\frac{\partial E}{\partial} = Nk_BT$. 
 
 #### Defensiva
-<Explicar el modo de defensa del robot.>
+Debido al lento movimiento del robot, la principal defensa es resistir a los golpes enemigos mediante la resistencia del poliluminio y acero. De forma experimental se ha determinado que la armadura es capaz de resistir golpes de alta intesidad.
 
 ### Diagrama funcional
-<Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
+Kampfi ----> Bot enemigo
+      ataque
+      
+        ataque
+Kampfi <--//-- Bot enemigo
+ (no pasa por armadura)
 
 ### *BONUS*: Paso a Paso
-<Explicar brevemente el paso a paso de cómo construir el battlebot.>
+Lloramos y salió solo.
+NECESARIO:
+- Echarse CAA
+- Echarse Proba
+- Echarse Electro
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
