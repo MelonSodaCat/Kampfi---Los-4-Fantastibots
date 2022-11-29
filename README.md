@@ -1,7 +1,7 @@
 # Kampfi - 2022
 Battlebot blindado con Polialuminio y Acero. Como arma tiene instalada una helice en la parte delantera, la cual gira a una velocidad suficiente para romper a su contrincante, pues además está hecha de acero. Tiene un tren de traccion compuesto por 2 ruedas energetizadas por motores de 9 volts, y una rueda no actuada. 
 
-![Kampfi](/multimedia/robot_ejemplo.png)
+![Kampfi](/multimedia/IMG_20221129_155900-01.jpeg)
 
 ## Integrantes
 - Antonia Gutierrez - FCFM
