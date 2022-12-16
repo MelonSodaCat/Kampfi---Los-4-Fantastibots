@@ -12,7 +12,7 @@ Inspirado por los errores tecnicos y la mala cuea, Kampfi fue creado para maximi
 ## Descripción del proyecto
 Battlebot blindado con Polialuminio y Acero. Como arma tiene instalada una helice en la parte delantera, la cual gira a una velocidad suficiente para romper a su contrincante, pues además está hecha de acero. Tiene un tren de traccion compuesto por 2 ruedas energetizadas por motores de 9 volts, y una rueda no actuada. 
 
-###Forma del robot
+### Forma del robot
 La forma triangular de Kampfi asegura que sea trigonometrico. verdaderamente un circulo unitario moment
 
 ### Estrategia utilizada
@@ -22,16 +22,16 @@ Su principal arma (y única) es una helice delantera. Para atacar se acerca a su
 #### Defensiva
 Debido al lento movimiento del robot, la principal defensa es resistir a los golpes enemigos mediante la resistencia del poliluminio y acero. De forma experimental se ha determinado que la armadura es capaz de resistir golpes de alta intesidad.
 
-####Uso del arma
+#### Uso del arma
 No la tengai prendida todo el rato o te quedai sin pila, no la tengai prendida si no se esta moviendo porque algo le esta oponiendo resistencia porque te quedai sin pila, no lo tengai prendido cuando hay gente cerca porque te vai a tribunales por homicido de 2do grado. Atacar en angulo,dejar que el arma gire y pegar, % x n
 
-####Distribución de armadura
+#### Distribución de armadura
 Intenta que no le peguen en la popa o gg electronicos, lados dan lo mismo, frente es ideal. Dificil que te den vuelta.
 
-###Movimiento
+### Movimiento
 JAJAJAJAJAJAJAJA, te salio buena titulo
 
-##Diagrama funcional
+## Diagrama funcional
 Kampfi ----> Bot enemigo
       ataque
       
