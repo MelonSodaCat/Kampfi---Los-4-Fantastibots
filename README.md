@@ -1,7 +1,7 @@
 # Kampfi - 2022
 Inspirado por los errores tecnicos y la mala cuea, Kampfi fue creado para maximizar la cantidad de cosas que podrian salir mal al hacer girar un pedazo de acero a la velocidad del ventilador en el radiador de un sedan. El equivalente battlebotiano de lo que sucede cuando le das un ak-47 a un mono.
 
-![Kampfi](/multimedia/KampfiFinaljpeg)
+![Kampfi](/multimedia/KampfiFinal.jpeg)
 
 ## Integrantes
 - Antonia Gutierrez - FCFM
