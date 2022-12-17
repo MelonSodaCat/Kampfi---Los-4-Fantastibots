@@ -16,5 +16,5 @@ Bosquejo N°2
 
 El segundo bosquejo es el que guía el aspecto final de Kampfi. Aqui se detalla la forma de la coraza mas similar a una piramide que una cuña baja.Se indica el compartimiento de acceso a las baterias y la posicion del motor en la coraza. Ademas se diseña la nueva arma, la cual será la definitiva.
 
-![Bosquejo2](/multimedia/Bosquejo-2.png)
+![Bosquejo2](/multimedia/Bosquejo-2.jpeg)
 
