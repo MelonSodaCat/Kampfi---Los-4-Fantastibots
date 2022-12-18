@@ -68,19 +68,63 @@ Ataque:
 
 ## Paso a Paso
 ### Materiales
-un (1) Kampfi de regulación (ISO b4tT73b0T-K)
-una (1) seccion de CAA
-una (1) seccion de Proba
+-Plancha de aluminio compuesto
+-Plancha de acero inoxidable cortada en rectangulos
+-Puente H de 12V
+-Relay de 12 V
+-Cables
+-Arduino Uno
+-Regulador de voltaje 7 V a 5 V
+-Motor de radiador
+-Pintura en Aerosol plateada y roja
+-Filamento plastico
+-Bateria 12 V 
+-Bateria 7 V
+-Tornillos
+-Tuercas
+-Madera
+-Estaño
+-2 motores de rueda 5 V
+-2 ruedas de goma
+
+-un (1) Kampfi de regulación (ISO b4tT73b0T-K)
+
 
 ### Herramientas
-una (1) impresora 3D
+
+-Taladro
+-CNC
+-Impresora 3D
+-llave inglesa
+-Destornillador
+-Sierra Circular
+-Martillo
+-Cautin
+
 
 ### Procedimiento
-Lloramos y salió solo.
-NECESARIO:
-- Echarse CAA
-- Echarse Proba
-- Echarse Electro
+
+1) Descargar todos los archivos de las piezas, el codigo de arduino y el apk de la app
+2) Realizar el circuito del bot
+3) Probar que funcione la parte electrica y la aplicacion
+4) Cortar las piezas de la base y la coraza
+5) Ensamblar los componentes en la base
+6) Armar la coraza
+7) Ensamblar el arma
+8) Asegurar todo en sus lugares
+9) Juntar la coraza y la base
+10) Comprobar el funcionamiento con el diagrama funcional
+
+Su Kampfi esta listo para funcionar.
+
+**no nos hacemos responsables de fallas con las ruedas o daños ocasionados por el poco cuidado con el arma**
+
+REQUISITOS:
+-LLORAR
+-Echarse CAA
+-Echarse Proba 
+-Echarse/Botar Electro
+
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
